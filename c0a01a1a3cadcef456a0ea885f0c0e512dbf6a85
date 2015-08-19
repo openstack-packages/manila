@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <brad+jenkins@redhat.com>
+Code-Review+2: Haïkel Guémar <haikel.guemar@gmail.com>
+Submitted-by: Haïkel Guémar <haikel.guemar@gmail.com>
+Submitted-at: Wed, 19 Aug 2015 16:23:07 +0200
+Reviewed-on: https://review.gerrithub.io/243600
+Project: openstack-packages/manila
+Branch: refs/heads/rpm-master

@@ -1,0 +1,9 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+1: Javier Peña <jpena@redhat.com>
+Code-Review+1: Jon Schlueter <jschluet@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Thu, 08 Oct 2015 01:26:19 +0200
+Reviewed-on: https://review.gerrithub.io/249242
+Project: openstack-packages/manila
+Branch: refs/heads/rpm-master

@@ -289,6 +289,7 @@ getent passwd manila >/dev/null || \
 %files
 %{_bindir}/manila-api
 %{_bindir}/manila-scheduler
+%{_bindir}/manila-data
 %{_unitdir}/%{name}-api.service
 %{_unitdir}/%{name}-scheduler.service
 %{_mandir}/man1/manila*.1.gz

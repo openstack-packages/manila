@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: John Trowbridge <trown@redhat.com>
+Submitted-by: John Trowbridge <trown@redhat.com>
+Submitted-at: Thu, 03 Mar 2016 19:10:37 +0100
+Reviewed-on: https://review.gerrithub.io/264941
+Project: openstack-packages/manila
+Branch: refs/heads/rpm-master
